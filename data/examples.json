@@ -1,0 +1,88 @@
+[
+  {
+    "text": "Apple hired a new engineer in London.",
+    "entities": [
+      {"text": "Apple", "label": "ORG"},
+      {"text": "London", "label": "LOC"}
+    ]
+  },
+  {
+    "text": "Microsoft opened an office in Hyderabad in 2024.",
+    "entities": [
+      {"text": "Microsoft", "label": "ORG"},
+      {"text": "Hyderabad", "label": "LOC"},
+      {"text": "2024", "label": "DATE"}
+    ]
+  },
+  {
+    "text": "Sundar Pichai leads Google from California.",
+    "entities": [
+      {"text": "Sundar Pichai", "label": "PERSON"},
+      {"text": "Google", "label": "ORG"},
+      {"text": "California", "label": "LOC"}
+    ]
+  },
+  {
+    "text": "Tesla will build a factory near Berlin.",
+    "entities": [
+      {"text": "Tesla", "label": "ORG"},
+      {"text": "Berlin", "label": "LOC"}
+    ]
+  },
+  {
+    "text": "The United Nations met in New York on Monday.",
+    "entities": [
+      {"text": "United Nations", "label": "ORG"},
+      {"text": "New York", "label": "LOC"},
+      {"text": "Monday", "label": "DATE"}
+    ]
+  },
+  {
+    "text": "OpenAI announced a partnership with Oxford University.",
+    "entities": [
+      {"text": "OpenAI", "label": "ORG"},
+      {"text": "Oxford University", "label": "ORG"}
+    ]
+  },
+  {
+    "text": "Satya Nadella spoke at an event in Seattle.",
+    "entities": [
+      {"text": "Satya Nadella", "label": "PERSON"},
+      {"text": "Seattle", "label": "LOC"}
+    ]
+  },
+  {
+    "text": "Amazon acquired a startup based in Paris.",
+    "entities": [
+      {"text": "Amazon", "label": "ORG"},
+      {"text": "Paris", "label": "LOC"}
+    ]
+  },
+    {
+    "text": "NVIDIA CEO Jensen Huang visited Taipei in 2024.",
+    "entities": [
+      {"text": "NVIDIA", "label": "ORG"},
+      {"text": "Jensen Huang", "label": "PERSON"},
+      {"text": "Taipei", "label": "LOC"},
+      {"text": "2024", "label": "DATE"}
+    ]
+  },
+  {
+    "text": "Netflix CEO Ted Sarandos visited Toronto in 2023.",
+    "entities": [
+      {"text": "Netflix", "label": "ORG"},
+      {"text": "Ted Sarandos", "label": "PERSON"},
+      {"text": "Toronto", "label": "LOC"},
+      {"text": "2023", "label": "DATE"}
+    ]
+  },
+  {
+    "text": "Meta CEO Mark Zuckerberg visited Dublin in 2022.",
+    "entities": [
+      {"text": "Meta", "label": "ORG"},
+      {"text": "Mark Zuckerberg", "label": "PERSON"},
+      {"text": "Dublin", "label": "LOC"},
+      {"text": "2022", "label": "DATE"}
+    ]
+  }
+]
